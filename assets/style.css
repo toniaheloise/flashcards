@@ -18,6 +18,8 @@ display:flex;
 .cartao_conteudo{ 
     text-align: center;
     height:100%;
+    transform-style:preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 
@@ -51,3 +53,20 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+/* Rotacionar o cartão quando o mouse passar em cima */
+  
+ .cartao:hover .cartao_conteudo{  
+    transform:rotateY(180deg);
+ } 
+
+ .resposta{ 
+     transform:rotateY(180deg);
+ }
+
+ .pergunta, .resposta{ 
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+ }
+  
