@@ -27,8 +27,32 @@ criacartao(
 )
 
 criacartao(
-"Historia"
-""
-
-""
+"Historia",
+" Qual foi o principal motivo da Revolução Francesa?",
+"Desigualdades sociais e econômicas, crise política e influência de ideias iluministas."
 )
+
+criaCartao(
+"Historia",
+"O que foi a Guerra Fria?",
+"Período de tensão política e militar entre os Estados Unidos e a União Soviética e seus respectivos aliados, após a Segunda Guerra Mundial."
+)
+
+criaCartao(
+"Historia",
+"Qual civilização antiga construiu as pirâmides do Egito?",
+"Os egípcios"
+)
+
+criaCartao( 
+"Hirtoria",
+"Quem foi Nelson Mandela?", 
+" Líder anti-apartheid, advogado e político sul-africano, que se tornou presidente da África do Sul."  
+)
+
+criaCartao( 
+"Historia",
+" Quem pintou a Mona Lisa?",
+"Leonardo da Vinci"
+)
+
