@@ -24,6 +24,8 @@ gap:3rem;
     height:100%;
     transform-style:preserve-3d;
     transition: transform 300ms ease-in-out;
+font-size: 3vh
+
 }
 
 
@@ -74,5 +76,9 @@ footer p {
     position: absolute;
     height: 100%;
     width: 100%;
+ }
+ 
+ .pergunta{ 
+    margin-top: 10vh
  }
   
